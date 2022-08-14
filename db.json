@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "title": "chicken burger",
+      "price": 3000,
+      "img": "./Asset/product_2.3.jpg"
+       },
+    {
+      "title": "Royal cheese burger",
+      "price": 1500,
+      "img": "./Asset/product_01.1.jpg"
+      },
+    {
+      "title": "Classic Hamburger",
+      "price": 1500,
+      "img": "./Asset/product_01.3.jpg"
+      },
+    {
+      "title": "Classic Hamburger",
+      "price": 3000,
+      "img": "./Asset/product_01.jpg"
+      },
+    {
+      "title": "Royal Cheese Burger",
+      "price": 1500,
+      "img": "./Asset/product_2.3.jpg"
+      },
+    {
+      "title": "Classic Hamburger",
+      "price": 1500,
+      "img": "./Asset/product_01.1.jpg"
+       },
+    {
+      "title": "Classic Hamburger",
+      "price": 1500,
+      "img": "./Asset/product_01.3.jpg"
+      },
+   {
+      "title": "chicken burger",
+      "price": 3000,
+      "img": "./Asset/product_01.jpg"
+      },
+   {
+      "title": "Classic Hamburger",
+      "price": 1500,
+      "img": "./Asset/product_01.jpg"
+        },
+   {
+      "title": "Classic Hamburger",
+      "price": 1500,
+      "img": "./Asset/product_01.jpg"
+        },
+   {
+    "title": "Classic Hamburger",
+    "price": 1500,
+    "img": "./Asset/product_01.jpg"
+     },
+   {
+    "title": "Classic Hamburger",
+    "price": 1500,
+    "img": "./Asset/product_01.jpg"
+     }
+      ]
+}
